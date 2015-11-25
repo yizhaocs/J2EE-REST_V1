@@ -6,7 +6,8 @@ import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
 /**
- * Root resource (exposed at "myresource" path)
+ * REST Web Services 13 - Creating a Resource
+ * http://localhost:8080/messenger1/webapi/messages
  */
 @Path("/messages")
 public class MessageResource {
